@@ -1,0 +1,1 @@
+This study presents a novel approach for odor prediction using machine learning. We assembled a large dataset of odorants with expert-labeled smell characteristics. By employing multi-label classification techniques, we aimed to uncover the relationships between a molecule's structure and its perceived odor
