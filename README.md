@@ -3,3 +3,13 @@ This study presents a novel approach for odor prediction using machine learning.
 <br /> a. For feature's data. pls use this link: https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing. Data/feature_1901.csv.
 <br /> b. For label data, Data/feature_1901.csv in the above link.
 <br /> c. For plot performace, the input file save in Figure folder in the above link. figure/perfomace3a.xlsx.
+## Requirements
+>Python==3.7 <br />sklearn==1.2.2. <br />numpy==1.25.2. <br />matplotlib==3.7.1 <br />pandas==2.0.3. <br />iterative-stratification==-0.1.7 <br />feature-engine <br />nltk==3.8.1. <br />fuzzywuzzy==-0.18.0
+
+
+
+
+
+
+
+
