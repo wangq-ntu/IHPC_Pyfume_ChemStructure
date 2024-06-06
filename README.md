@@ -2,7 +2,7 @@
 This study presents a novel approach for odor prediction using machine learning. We assembled a large dataset of odorants with expert-labeled smell characteristics. By employing multi-label classification techniques, we aimed to uncover the relationships between a molecule's structure and its perceived odor.
 <br /> a. In the code: 'Combine_data_P&G_ML.ipynb', For dataset combination, dataset use this link:(https://drive.google.com/drive/folders/1juK9db6W9xIIaVs3UbHEIvL9yW_NwpmN?usp=sharing)
 <br /> b. For label clean use this code'Label_clean_P&G_ML.ipynb' this data folder: https://drive.google.com/drive/folders/1a8T83HLk395B5DYoJZ9Y7nOHA-mesczZ?usp=sharing
-<br /> b. Feature combination, the input file dataset use this link. 
+<br /> b. Feature combination, use this code'27_mar_Features_Combine_data_P&G.ipynb'. the input file dataset use this link. 
 https://drive.google.com/drive/folders/1ecWukhdTfbhtKPYYU5rhjxCprEtNDOVp?usp=sharing
 <br /> d. In training code 'ML_training and Evaluation.ipynb',  For feature's data. pls use this link: https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing. Data/feature_1901.csv.For label data, Data/feature_1901.csv in the above link.
 <br /> e. For plot performace, the input file save in Figure folder in the  link.https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing.   figure/perfomace3a.xlsx.
