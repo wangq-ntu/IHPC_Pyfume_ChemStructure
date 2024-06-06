@@ -1,11 +1,11 @@
 # The relationship between Chemical structure and Pyfume 
 This study presents a novel approach for odor prediction using machine learning. We assembled a large dataset of odorants with expert-labeled smell characteristics. By employing multi-label classification techniques, we aimed to uncover the relationships between a molecule's structure and its perceived odor.
 <br /> a. For dataset combination, dataset use this link:(https://drive.google.com/drive/folders/1juK9db6W9xIIaVs3UbHEIvL9yW_NwpmN?usp=sharing)
-<br /> b. In training code 'ML_training and Evaluation.ipynb',  For feature's data. pls use this link: https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing. Data/feature_1901.csv.For label data, Data/feature_1901.csv in the above link.
-<br /> c. For Data clean use this data folder: https://drive.google.com/drive/folders/1a8T83HLk395B5DYoJZ9Y7nOHA-mesczZ?usp=sharing
-<br /> d. Feature combination, the input file dataset use this link. 
+<br /> b. For Data clean use this data folder: https://drive.google.com/drive/folders/1a8T83HLk395B5DYoJZ9Y7nOHA-mesczZ?usp=sharing
+<br /> b. Feature combination, the input file dataset use this link. 
 https://drive.google.com/drive/folders/1ecWukhdTfbhtKPYYU5rhjxCprEtNDOVp?usp=sharing
-<br /> e. For plot performace, the input file save in Figure folder in the above link. figure/perfomace3a.xlsx.
+<br /> d. In training code 'ML_training and Evaluation.ipynb',  For feature's data. pls use this link: https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing. Data/feature_1901.csv.For label data, Data/feature_1901.csv in the above link.
+<br /> e. For plot performace, the input file save in Figure folder in the  link.https://drive.google.com/drive/folders/1eLv3WS6rkA-qPIp1nJfXCeIvmHIQmLt2?usp=sharing.   figure/perfomace3a.xlsx.
 <br /> f. for evaluation, pls use the dataset link: https://drive.google.com/drive/folders/1Ytweu1yGHAxfvP5Q8jARMqL198OuTlCz?usp=sharing
 ## Requirements
 >Python==3.7 <br />Sklearn==1.2.2. <br />Numpy==1.25.2. <br />matplotlib==3.7.1 <br />pandas==2.0.3. <br />iterative-stratification==-0.1.7 <br />Feature-engine <br />nltk==3.8.1. <br />fuzzywuzzy==-0.18.0
