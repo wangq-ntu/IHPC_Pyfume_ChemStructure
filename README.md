@@ -1,6 +1,6 @@
 # The relationship between Chemical structure and Pyfume 
 This study presents a novel approach for odor prediction using machine learning. We assembled a large dataset of odorants with expert-labeled smell characteristics. By employing multi-label classification techniques, we aimed to uncover the relationships between a molecule's structure and its perceived odor.
-<br />When use the code please change the folder path and use the same name of files. 
+<br /> ## When use the code please change the folder path and use the same name of files. 
 
 <br /> a. In the code: 'Combine_data_P&G_ML.ipynb', For dataset combination, dataset use this link:(https://drive.google.com/drive/folders/1juK9db6W9xIIaVs3UbHEIvL9yW_NwpmN?usp=sharing)
 
